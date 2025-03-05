@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Movie Ticketing System | Ruby on Rails Project",
+    "date": "February 2025",
+    "description": "Designed and developed a full-stack movie ticketing system enabling users to browse movies, view showtimes, and purchase tickets with a seamless booking experience. Implemented admin functionalities for managing movies, shows, users, and tickets with secure authentication and role-based access control. Enhanced system scalability by incorporating multi-screen support for movies, optimizing real-world applicability.",
+    "link": "https://github.com/yourusername/movie-ticketing-system",
+    "tech": ["Ruby on Rails", "PostgreSQL", "CSS", "JavaScript"]
+  },
+  {
+    "name": "Recipe Recommender",
+    "date": "October 2024",
+    "description": "Developed an open-source feature-rich recipe recommender app leveraging ReactJS, NodeJS, and Firebase for user authentication, database management. Integrated the Gemini API for real-time recipe searches powered by NLP, enabling personalized recipe recommendations. Implemented an ingredient-based shopping list download functionality and recipe bookmarking to enhance user experience through seamless data management and dynamic interaction.",
+    "link": "https://github.com/yourusername/recipe-recommender",
+    "tech": ["ReactJS", "NodeJS", "Firebase", "Gemini API", "NLP"]
+  },
+  {
+    "name": "Fashion Recommender | Full Stack Application",
+    "date": "November 2024",
+    "description": "Built a personalized outfit recommendation system using AI, Gemini API, and Google Authentication, providing clothing suggestions based on user preferences, weather, and culture. Implemented ReactJS, Firebase, and REST APIs for seamless navigation and shopping integration. Achieved 90% test coverage for enhanced reliability.",
+    "link": "https://github.com/yourusername/fashion-recommender",
+    "tech": ["ReactJS", "AI", "Gemini API", "Google Authentication", "Firebase", "REST APIs"]
+  },
+  {
+    "name": "Image Segmentation Using Edge Detection",
+    "date": "November 2024",
+    "description": "Developed an image segmentation pipeline using Python and libraries such as OpenCV, NumPy, and Matplotlib, applying edge detection techniques (Structured Edge Detection, Sobel, and Canny) on the Berkeley Segmentation Dataset (BSDS300). Conducted performance evaluation using metrics like precision, recall, and F1-score, achieving the best results with Structured Edge Detection.",
+    "link": "https://github.com/yourusername/image-segmentation-edge-detection",
+    "tech": ["Python", "OpenCV", "NumPy", "Matplotlib", "Structured Edge Detection", "Sobel", "Canny"]
+  },
+  {
+    "name": "Dynamic Label Generator | Full Stack Application",
+    "date": "June 2023",
+    "description": "Developed a dynamic label design application with ReactJS, REST APIs, Java (Spring Boot), and PostgreSQL, enabling drag-and-drop customization. Improved efficiency by 66%, cutting label generation time from 10-12 days to 4-5 days. Awarded Best Final Year Research Project at Project-Expo 2023.",
+    "link": "https://github.com/yourusername/dynamic-label-generator",
+    "tech": ["ReactJS", "Java (Spring Boot)", "PostgreSQL", "REST APIs"]
+  },
+  {
+    "name": "LogiScrape | Web Scraping Automation Project",
+    "date": "June 2023",
+    "description": "Worked on data scraping using Python and Selenium. Employed web scraping techniques to efficiently collect and structure data, subsequently transforming it into a DataFrame. Successfully integrated Google Cloud's BigQuery to facilitate seamless data storage and analysis.",
+    "link": "https://github.com/yourusername/logiscrape",
+    "tech": ["Python", "Selenium", "Google Cloud", "BigQuery"]
+  },
+  {
+    "name": "Product-Inventory Management System | REST API based Project",
+    "date": "September 2022",
+    "description": "Developed a RESTful API for a product inventory management system using Java, Spring Boot, and Maven. Implemented CRUD operations to store, retrieve, update, and delete products using Spring JPA. Ensured data integrity and security by incorporating extensive validation of input fields. Achieved 85% unit test coverage with JUnit and Mockito, showcasing meticulous attention to detail and delivering a secure and reliable solution.",
+    "link": "https://github.com/yourusername/product-inventory-system",
+    "tech": ["Java", "Spring Boot", "Maven", "Spring JPA", "JUnit", "Mockito"]
+  },
+  {
+    "name": "Systematic Farming Website for Farmers in Local Languages | Web Application",
+    "date": "April 2022",
+    "description": "Developed during a 36-hour internal hackathon for Smart India Hackathon 2022, this project aimed to empower local farmers in Uttarakhand by providing crucial agricultural information, including details on crops, seeds, farming tools, and weather reports. Integrated a machine learning algorithm to translate and effectively communicate content in multiple dialects. The project secured the 7th position in the competition and was built using HTML, CSS, and JavaScript.",
+    "link": "https://github.com/yourusername/systematic-farming-website",
+    "tech": ["HTML", "CSS", "JavaScript", "Machine Learning"]
+  },
+  {
+    "name": "Travel and Tourism Management System | Full Stack Application",
+    "date": "January 2022",
+    "description": "Designed and developed a full-fledged desktop application for a travel agency, leveraging Java Swing to deliver a seamless and user-friendly interface. The application streamlined key functionalities, including real-time hotel availability viewing and booking management. Integrated SQL for efficient data storage and retrieval, with XAMPP server facilitating database connectivity and backend operations.",
+    "link": "https://github.com/yourusername/travel-tourism-management-system",
+    "tech": ["Java Swing", "SQL", "XAMPP"]
+  },
+  {
+    "name": "E-commerce Website",
+    "date": "December 2021",
+    "description": "Developed a dynamic e-commerce web application for a local shop during the COVID-19 period, providing a seamless shopping experience with an intuitive and responsive frontend built using HTML5 and CSS. Implemented robust cart and inventory management features using PHP and MySQL, ensuring efficient order processing and real-time stock updates.",
+    "link": "https://github.com/yourusername/e-commerce-website",
+    "tech": ["HTML5", "CSS", "PHP", "MySQL"]
+  }
+]

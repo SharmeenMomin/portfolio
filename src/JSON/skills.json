@@ -1,0 +1,34 @@
+[
+    {
+      "category": "Programming Languages",
+      "skills": [
+        { "name": "Java", "icon": "fab fa-java" },
+        { "name": "Python", "icon": "fab fa-python" },
+        { "name": "C", "icon": "fas fa-code" }
+      ]
+    },
+    {
+      "category": "Web Development",
+      "skills": [
+        { "name": "React.js", "icon": "fab fa-react" },
+        { "name": "Node.js", "icon": "fab fa-node-js" },
+        { "name": "Vue.js", "icon": "fab fa-vuejs" }
+      ]
+    },
+    {
+      "category": "Cloud & Databases",
+      "skills": [
+        { "name": "Google Cloud", "icon": "fab fa-google" },
+        { "name": "BigQuery", "icon": "fas fa-database" },
+        { "name": "Pub/Sub", "icon": "fas fa-cloud" }
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "skills": [
+        { "name": "Spring Boot", "icon": "fas fa-cogs" },
+        { "name": "REST APIs", "icon": "fas fa-plug" }
+      ]
+    }
+  ]
+  

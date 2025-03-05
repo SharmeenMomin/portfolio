@@ -1,0 +1,25 @@
+[
+    {
+      "company": "Falabella India",
+      "title": "Associate Back End Software Engineer",
+      "date": "2023-2024",
+      "description": "Developed backend microservices and logistics solutions using Java Spring Boot and Google Cloud.",
+      "achievements": [
+        "Developed backend microservices orchestrating 1000+ stock transfers daily.",
+        "Implemented scalable logistics solutions with Java Spring Boot and Google Cloud's Pub/Sub.",
+        "Ensured 92% unit test coverage using JUnit with Mockito.",
+        "Facilitated over 5 knowledge transfer sessions across multicultural teams."
+      ]
+    },
+    {
+      "company": "Conpriquo Solutions",
+      "title": "Software Engineer Intern",
+      "date": "2022",
+      "description": "Worked on a dynamic inventory management system with Java Spring Boot.",
+      "achievements": [
+        "Designed and implemented RESTful API for inventory management.",
+        "Achieved 85% unit test coverage with rigorous data validation."
+      ]
+    }
+  ]
+  
